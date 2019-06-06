@@ -1,0 +1,14 @@
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+D:\Web Projects\CoreWithJWT\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
